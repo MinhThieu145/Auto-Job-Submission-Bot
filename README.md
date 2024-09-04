@@ -17,7 +17,7 @@ The bot is built to streamline the job search process by automatically gathering
   - Managed scheduling, storage, and network setup.
 
 - **NLP with OpenAI API**: 
-  - Analyzed and extracted relevant keywords from job descriptions using OpenAI's API.
+  - Analyzed and extracted relevant keywords from job descriptions using prompt engineer and OpenAI API
 
 ## Current Limitations
 
