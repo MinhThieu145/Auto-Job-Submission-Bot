@@ -25,7 +25,7 @@ While the bot is functional, it faces a few significant challenges:
 
 - **LinkedIn Restrictions**: LinkedIn actively blocks AWS IP addresses, which affects the bot's reliability. Implementing a proxy server could bypass these restrictions, but it would also increase operational costs.
 - **Inefficient Job Search Strategy**: Despite automating the process, the current approach may not be the most effective strategy for job hunting.
-- Unreliable OpenAI Responses: The OpenAI API's JSON response feature has proven to be unreliable, leading to inconsistencies in the extracted data. This affects the accuracy of the keyword extraction and overall results.
+- **Unreliable OpenAI Responses**: The OpenAI API's JSON response feature has proven to be unreliable, leading to inconsistencies in the extracted data. This affects the accuracy of the keyword extraction and overall results.
 
 ## Future Considerations
 
