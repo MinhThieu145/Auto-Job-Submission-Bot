@@ -1,0 +1,4 @@
+boto3==1.26.165
+pandas==1.5.3
+streamlit==1.22.0
+s3fs

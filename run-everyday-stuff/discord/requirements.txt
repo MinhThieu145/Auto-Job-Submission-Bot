@@ -1,0 +1,4 @@
+boto3==1.26.83
+discord.py==2.2.3
+pandas==1.5.3
+aiobotocore==2.5.0
